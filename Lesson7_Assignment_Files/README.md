@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 26, 2018
 
 ### Student Name:  
-(First and Last Name)
+Reggi Nelson
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, we will create a program that allows the user to explore the ingredients and instructions of the brownie recipe.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://regginelson.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. All jQuery code follows the same JavaScript rules and every statement begings with "$".
+2. Event listener consists of $, selector, and a method.
+3. jQuery enables programmers to complete common tasks with minimal code. 
 
